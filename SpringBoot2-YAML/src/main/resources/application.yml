@@ -1,0 +1,23 @@
+person:
+  userName: 李信
+  boss: true
+  birth: 2022/2/10
+  age: 20
+  #interests: [呵呵,嘿嘿]
+  interests:
+    - 呵呵
+    - 诶嘿
+  pet:
+    name: tomcat
+    weight: 23.4
+  animal:
+    - jerry
+    - mario
+  allPets:
+    sick:
+      - name: ehhe
+        weight: 20
+      - { name: tom }
+      - { name: jerry,weight: 47 }
+    health: [ { name: mario,weight: 47 } ]
+

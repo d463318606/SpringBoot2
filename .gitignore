@@ -1,0 +1,5 @@
+# Project exclude paths
+/SpringBoot2-Hello/target/
+/SpringBoot2-YAML/target/
+/SpringBoot-web-01/target/
+/SpringBoot-web-Initializr/target/
